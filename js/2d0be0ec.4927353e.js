@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0be0ec"],{"2f46":function(e,n,t){"use strict";t.r(n);var i=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("center",[e._v("\n    正在建设中...\n")])},l=[];i._withStripped=!0;var r=t("2877"),u={},c=Object(r["a"])(u,i,l,!1,null,null,null);c.options.__file="Build.vue";n["default"]=c.exports}}]);
